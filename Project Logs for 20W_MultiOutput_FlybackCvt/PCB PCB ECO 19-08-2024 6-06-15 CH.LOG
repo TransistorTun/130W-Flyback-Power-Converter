@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=T? Old DesignItemId=PQ 35/35 New DesignItemId=PQ 32/20
+Change Component Footprint: Designator=T? Old Footprint=Core PQ35 New Footprint=Core PQ32/20
+Change Component Comment : Designator=T? Old Comment=PQ 35/35 New Comment=PQ 32/20
+Change Component Designator: OldDesignator=T? NewDesignator=T1

@@ -1,0 +1,7 @@
+Added Component: Designator=C12(Cap 1600v)
+Add component (AddParameter): Name = "Capacitant"; Value = "47nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Metallized Polypropylene"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max RMS voltage"; Value = "630V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply link"; Value = "https://chipn24.com/g54-tu-cbb-630v-472j-p10mm-472-4-7nf-id4742.html"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=VIN Pin=C12-2

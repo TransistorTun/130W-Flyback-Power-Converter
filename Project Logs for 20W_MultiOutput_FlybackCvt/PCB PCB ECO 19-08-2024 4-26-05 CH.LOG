@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VOUT_24V Pin=C30-1
+Change Component Footprint: Designator=C27 Old Footprint=C-50-47UF New Footprint=C-50-47uf_alu
+Added Component: Designator=C30(C-50-47uf_alu)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "6.3mm (dia)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "10-EEE-FK1H470XLCTND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-EEE-FK1H470XLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V 47uF_6.3pi/smd"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C-50-47uf_alu)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "6.3mm (dia)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "10-EEE-FK1H470XLCTND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-EEE-FK1H470XLCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50V 47uF_6.3pi/smd"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=VOUT_24V Pin=C30-1
+Added Pin To Net: NetName=GND_24V Pin=C30-2
+Added Pin To Net: NetName=VCC Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2

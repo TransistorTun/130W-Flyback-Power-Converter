@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VREF Pin=R6-1
+Removed Pin From Net: NetName=RT/CT Pin=R6-2
+Change Component Comment : Designator=R6 Old Comment=KTR10EZPF5761 New Comment=RC0805FR-1312KL
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES 0805"; UniqueID = "\VGHXJZAW" ("\VGHXJZAW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "13-RC0805FR-1312KLCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0805 12k"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP 0805)
+Add component (AddParameter): Name = "Category 1"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/42933017S9108484N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/42933017S9108484N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/C0805C101J5RACTU-KEMET-datasheet-157246124.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/C0805C101J5RACTU-KEMET-datasheet-157246124.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Cap Ceramic 100pF 50V X7R 5% SMD 0805 125C Paper T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0805C101J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "0805 100pF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,14, 10=0,059, 50=0,059, 100=0,034, 1000=0,027, 10000=0,022 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "27580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C101J5R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSENSE Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=RT/CT Pin=R6-1
+Added Pin To Net: NetName=VREF Pin=R6-2

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VIN Pin=C23-2
+Removed Pin From Net: NetName=VIN Pin=R9-1
+Removed Pin From Net: NetName=VIN Pin=R19-1
+Removed Pin From Net: NetName=NetD4_A Pin=T1-1
+Removed Pin From Net: NetName=VIN Pin=T1-3
+Removed Pin From Net: NetName=NetD6_1 Pin=T1-4
+Removed Pin From Net: NetName=GND Pin=T1-6
+Removed Pin From Net: NetName=GND_24V Pin=T1-7
+Removed Pin From Net: NetName=NetD7_1 Pin=T1-8
+Removed Pin From Net: NetName=GND_5V Pin=T1-11
+Removed Pin From Net: NetName=NetD3_1 Pin=T1-12
+Added Component: Designator=T?(Core PQ35)
+Added Pin To Net: NetName=VIN Pin=C23-1
+Added Pin To Net: NetName=VIN Pin=R9-2
+Added Pin To Net: NetName=VIN Pin=R19-2
+Added Pin To Net: NetName=GND Pin=T?-1
+Added Pin To Net: NetName=NetD6_1 Pin=T?-3
+Added Pin To Net: NetName=NetD4_A Pin=T?-4
+Added Pin To Net: NetName=VIN Pin=T?-6
+Added Pin To Net: NetName=GND_24V Pin=T?-7
+Added Pin To Net: NetName=NetD7_1 Pin=T?-9
+Added Pin To Net: NetName=GND_5V Pin=T?-10
+Added Pin To Net: NetName=NetD3_1 Pin=T?-12
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=D4-K
+Added Pin To Net: NetName=NetC23_2 Pin=R9-1
+Added Pin To Net: NetName=NetC23_2 Pin=R19-1
+Added Net: Name=NetC23_2

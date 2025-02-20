@@ -1,0 +1,20 @@
+Add Component: Footprint Not Found C-50-47uf
+Add Component: Footprint Not Found C-50-47uf
+Added Component: Designator=R19(RES 2512)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLR3A30DR0015FTDG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tlr3a30dr0015ftdg/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1879378&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLR3A30DR0015FTDG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-TLR3A30DR0015FTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-CGS/TLR3A30DR0015FTDG?qs=Td4ahdVznEA1BjtU1QJrUg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A130748CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2512 180k"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Added Pin To Net: NetName=VIN Pin=R19-1
+Added Pin To Net: NetName=NetC23_1 Pin=R19-2
